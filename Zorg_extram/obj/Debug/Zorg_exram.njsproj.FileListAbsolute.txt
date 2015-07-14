@@ -1,2 +1,4 @@
 c:\users\nlteuwsenl\documents\visual studio 2013\Projects\Zorg_exram\Zorg_exram\obj\Debug\Zorg_exram.njsprojResolveAssemblyReference.cache
 c:\users\nlteuwsenl\documents\visual studio 2013\Projects\Zorg_exram\Zorg_exram\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\NLTeuwsenL\Documents\GitHub\0000-Webapp\Zorg_extram\obj\Debug\Zorg_exram.njsprojResolveAssemblyReference.cache
+C:\Users\NLTeuwsenL\Documents\GitHub\0000-Webapp\Zorg_extram\bin\Microsoft.NodejsTools.WebRole.dll
